@@ -99,7 +99,7 @@ derivative) for academic assessment, republishing it under your own name,
 or redistributing it without written permission.
 Commercial use requires a written agreement with the author. Any
 business or commercial use must be discussed with me and terms agreed
-before use begins — contact me via [INSERT email or GitHub profile].
+before use begins — contact me via [https://github.com/BleoSMV].
 No warranty, no liability. The software is provided as is. It performs
 illustrative structural calculations for an academic project and must not
 be relied upon for the design of any real structure.
