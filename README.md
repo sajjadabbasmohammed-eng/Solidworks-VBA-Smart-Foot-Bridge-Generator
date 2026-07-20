@@ -55,7 +55,7 @@ such as "m2"/"m²" and "£"/"GBP" are accepted):
 |-----------|-------------------------------------------------------------------------|
 | Materials | Material Name, E (Pa), Fy (Pa), Density (kg/m³)                          |
 | Finishes  | Finish Name, Multiplier, RGB Color (optional)                            |
-| Sections  | Section Name,Depth(m),Width(m),Area(m²),Ixx(m⁴),Zxx(m³),Mass(kg/m),Cost(£/m)|
+| Sections  | Section Name, Depth (m), Width(m), Area(m²), Ixx (m⁴), Zxx (m³), Mass (kg/m), Cost (£/m)|
 
 All section properties are base SI: catalogue values in cm⁴/cm³ must be
 converted to m⁴/m³ before entry.
