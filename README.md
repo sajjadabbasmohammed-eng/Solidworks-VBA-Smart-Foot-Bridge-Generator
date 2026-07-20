@@ -9,6 +9,9 @@ program validates the design against simply-supported beam theory, selects the
 optimum standard section automatically, and generates the full design package
 with no manual modelling.
 
+
+<img width="1082" height="714" alt="image" src="https://github.com/user-attachments/assets/4f3ac37b-2894-41ac-b588-0a2af348e9c1" />
+
 ## What it does
 
 - **Validates before it builds.** Every catalogued beam section is checked
