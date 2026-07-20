@@ -1,8 +1,7 @@
 # SmartBridge — SolidWorks API Footbridge Generator
 
 A VBA automation tool for SolidWorks 2024-5 that designs and models a complete
-steel footbridge from minimal input. Built for module MP3604 Advanced Computer
-Aided Design (UCLan).
+steel footbridge from minimal input. 
 
 Enter a span, width, load class, material and finish into one UserForm. The
 program validates the design against simply-supported beam theory, selects the
@@ -98,7 +97,7 @@ You may not pass this work off as your own. No submitting it (or a
 derivative) for academic assessment, republishing it under your own name,
 or redistributing it without written permission.
 Commercial use requires a written agreement with the author. Any
-business or commercial use must be discussed with me and terms agreed
+business or commercial use must be discussed with author and terms agreed
 before use begins — contact me via [https://github.com/BleoSMV].
 No warranty, no liability. The software is provided as is. It performs
 illustrative structural calculations for an academic project and must not
